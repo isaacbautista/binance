@@ -6,3 +6,4 @@ virt/
 *.log
 *.idea
 test.py
+*.csv
