@@ -1,0 +1,8 @@
+__pycache__/
+*.sh
+virt/
+*.zip
+*.txt
+*.log
+*.idea
+test.py
